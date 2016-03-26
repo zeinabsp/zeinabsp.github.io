@@ -1,0 +1,24 @@
+#wrapper {
+        width:600px !important;
+        margin:30px auto !important;
+}
+
+.center {
+	margin-left: auto !important;
+	margin-right: auto !important;
+	display: block !important;
+}
+
+.btn-border-round {
+	border-radius: 4px !important;
+}
+
+.btn-next {
+	float: right !important;
+	margin-right: 30px !important;
+	padding: 5px 20px !important;
+}
+
+.text-font16 {
+	font-size: 16px !important;
+}
